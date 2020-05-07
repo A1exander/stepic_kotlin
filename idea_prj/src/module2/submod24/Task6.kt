@@ -1,4 +1,4 @@
-package module2.submod25
+package module2.submod24
 
 fun main(){
 
@@ -10,7 +10,7 @@ fun engineStatus(engineNumber:Int): String {
         result = rawEngineStatus(engineNumber);
     } catch (e: SensorsMeltException) {
         result = "engine $engineNumber offline"
-    } catch (e: EngineNotFoundException ) {
+    } catch (e: EngineNotFoundException) {
         result = "engine $engineNumber not found"
     }
     return result

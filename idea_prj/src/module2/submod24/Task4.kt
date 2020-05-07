@@ -1,4 +1,4 @@
-package module2.submod25
+package module2.submod24
 
 fun main () {
     checkClient("dog")
