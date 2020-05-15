@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kotlin_multi-jvm-0.0.1">
+    <output-path>D:\idea_prj\kotlin_multi\build\libs</output-path>
+    <root id="archive" name="kotlin_multi-jvm-0.0.1.jar" />
+  </artifact>
+</component>
